@@ -4,3 +4,4 @@
 Планируется добавить:
 ----------------------------------------
 -Лаунчер для всех видов сортировок.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Red-Sunrise.id)
